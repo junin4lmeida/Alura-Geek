@@ -1,0 +1,40 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "nome": "HX Stomp",
+      "preco": "4.844,00",
+      "imagem": "https://www.chicagomusicexchange.com/cdn/shop/products/line-6-effects-and-pedals-multi-effect-unit-line-6-hx-stomp-limited-edition-stomptrooper-white-99-060-2405-05-fbau-17657144377479_2000x.jpg?v=1648029548"
+    },
+    {
+      "id": 2,
+      "nome": "Ampero II Stage",
+      "preco": "5.290,00",
+      "imagem": "https://rvb-img.reverb.com/image/upload/s--3H_chbPx--/a_0,c_crop,h_0.752,w_1.000,x_0.000,y_0.152/f_auto,t_large/v1704316803/efrkarmvg8npb2oraco3.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Helix Floor",
+      "preco": "7.072,00",
+      "imagem": "https://www.russomusic.com/cdn/shop/files/ISS14286_USED_HELIX_FLOOR_WITH_ORIGINAL_BOX_2.jpg?v=1683819175"
+    },
+    {
+      "nome": "Ampero II Stomp",
+      "preco": "3.090,00",
+      "imagem": "https://hismael.com.br/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-14-at-13.54.10.jpeg",
+      "id": 7
+    },
+    {
+      "nome": "Hotone Soul Press II",
+      "preco": "1.492,00",
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTET0kpCUMMecZS9UP2Lx56LoRh0H4XQSyROtd_ukNWA0MqXIFVhLNfXmye5AdFomic58FAneU4qU4wKP0fCU8AtSvVRhr1BI3lJt-aNwvobZJHhdm3B7eW&usqp=CAE",
+      "id": 8
+    },
+    {
+      "nome": "Ampero Control",
+      "preco": "1.367,00",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR1vlU4Ilx3Yp_Nm4iMJaXkWzUoBb16yYtmKJexUL7mLn9XIZ2psgNd7rvquGAX-AwtImhTkdGKWEiIzbRjFkFXRYwdn33H9pT3rQF6tQNh0kTLIm0bTUzUNA&usqp=CAE",
+      "id": 9
+    }
+  ]
+}
